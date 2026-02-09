@@ -85,41 +85,41 @@ El desarrollo de los proyectos se realizó bajo condiciones de alta exigencia t�
 
 ---
 
-### Primer modulo – ...
+### Primer modulo – Análisis de Datos Comerciales
 
-...
+Integración y normalización de datasets mediante procesos ETL en Power Query para la corrección de inconsistencias, seguido del modelado de datos y la construcción de dashboards interactivos en Excel para el análisis de tendencias comerciales y métricas de rendimiento.
 
 [Ver detalles de la prueba](./modulo-1/README.md)
 
 ---
 
-### Segundo modulo – ...
+### Segundo modulo – Arquitectura de Software y Diseño de Soluciones
 
-...
+Definición de la arquitectura de software y diseño técnico del sistema de ventas para GSW, que abarca el modelado de requisitos mediante diagramas de casos de uso , el diseño de un modelo de datos relacional normalizado (ERD) , la creación de wireframes de interfaz de usuario con control de acceso por roles y la documentación de una API RESTful para la gestión de entidades.
 
 [Ver detalles de la prueba](./modulo-2/README.md)
 
 ---
 
-### Tercer modulo – ...
+### Tercer modulo – Desarrollo e Integración de Aplicación de Escritorio y API RESTful
 
-...
+Implementación de una solución full-stack para el sistema de ventas de GSW que integra el desarrollo de una API RESTful en .NET Web API y una aplicación de escritorio de interfaz responsiva. El proyecto comprende la configuración y migración de datos a una base de datos relacional, la exposición de endpoints CRUD con autenticación básica para productos, clientes y pedidos, y la creación de interfaces de usuario para la gestión operativa y el control de estados de pedidos en tiempo real. Finalmente, se incluye una fase de aseguramiento de calidad mediante la documentación de pruebas de aceptación y caja negra para validar la integridad de las operaciones de la API.
 
 [Ver detalles de la prueba](./modulo-3/README.md)
 
 ---
 
-### Cuarto modulo – ...
+### Cuarto modulo – Desarrollo de Aplicación Móvil Orientada al Cliente e Integración de Servicios
 
-...
+Diseño e implementación de una aplicación móvil nativa o híbrida dirigida a los consumidores, centrada en la experiencia de usuario (UX) y la conectividad con sistemas existentes. El proyecto incluye el desarrollo de funcionalidades para la búsqueda avanzada de productos, gestión de pedidos personalizados y seguimiento en tiempo real, junto con la integración de perfiles de usuario que permiten la edición en línea de datos personales, gestión de direcciones y métodos de entrega preferidos.
 
 [Ver detalles de la prueba](./modulo-4/README.md)
 
 ---
 
-### Quinto modulo – ...
+### Quinto modulo – Implementación de Lógica de Negocio Avanzada, Programas de Fidelización y Gestión de Inventarios
 
-...
+Evolución de la aplicación de escritorio mediante la integración de módulos complejos de inteligencia de negocios y persistencia de datos. El proyecto se enfoca en el desarrollo de un motor de promociones y un sistema de gestión de fidelidad (Loyalty Management) que permite el cálculo automático de puntos, gestión de membresías y canje de recompensas mediante lógica programática.
 
 [Ver detalles de la prueba](./modulo-5/README.md)
 
@@ -133,5 +133,6 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
