@@ -1,4 +1,4 @@
-# Worldskills Colombia 2025 **– 🥇 Plata Continental en Desarrollo de Software**
+# Worldskills Colombia 2025 **– 🥈 Plata Continental en Desarrollo de Software**
 
 [🥇 Ver anterior competencia (Nacional)](https://github.com/JuanPabloMendozaLopez/worldskills-colombia-2025)
 
@@ -133,4 +133,5 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
