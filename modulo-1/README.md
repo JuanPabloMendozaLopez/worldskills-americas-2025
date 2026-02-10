@@ -1,4 +1,4 @@
-# Módulo 1 - Gestión, Limpieza y Análisis de Datos Comerciales
+# Módulo 1 - Análisis de Datos Comerciales
 
 [🔙 Volver al inicio](../README.md#-descripcion-de-la-competencia)
 
@@ -10,4 +10,5 @@ Este módulo se centra en el análisis de datos de GSW General Supplies Warehous
 
 ## Desempeño Personal 
 En esta primera prueba me fue muy bien, logrando una gestión del tiempo excelente. Pude completar la totalidad de las tareas técnicas, incluyendo la limpieza profunda de los datasets y la generación de los informes de tendencias y rendimiento, terminando todos los entregables dentro del tiempo establecido por la competencia.
+
 
