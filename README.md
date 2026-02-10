@@ -67,11 +67,11 @@ Más allá de los resultados, este repositorio sirve como testimonio del dominio
 ```bash
 worldskills-colombia-2025/
 ├── docs/                       # Documentacion e información de la competencia
-├── modulo-1/                   # Módulo 1 – 
-├── modulo-2/                   # Módulo 2 – 
-├── modulo-3/                   # Módulo 3 – 
-├── modulo-4/                   # Módulo 4 – 
-├── modulo-5/                   # Módulo 5 – 
+├── modulo-1/                   # Módulo 1 – Análisis de Datos Comerciales
+├── modulo-2/                   # Módulo 2 – Arquitectura de Software y Diseño de Soluciones
+├── modulo-3/                   # Módulo 3 – Desarrollo e Integración de Aplicación de Escritorio y API RESTful
+├── modulo-4/                   # Módulo 4 – Desarrollo de Aplicación Móvil Orientada al Cliente e Integración de Servicios
+├── modulo-5/                   # Módulo 5 – Implementación de Lógica de Negocio Avanzada, Programas de Fidelización y Gestión de Inventarios
 └── README.md                   # Documentación principal del repositorio
 ```
 
@@ -133,6 +133,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
