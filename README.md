@@ -46,7 +46,7 @@ Más allá de los resultados, este repositorio sirve como testimonio del dominio
   
   <img src="docs/images/competencia-2.jpg" alt="Competencia Americana" width="600" style="object-fit: cover; border-radius: 8px; margin: 10px;">
   
-  _Durante la ejecución de las pruebas técnicas en la competencia nacional_
+  _Durante la ejecución de las pruebas técnicas en la competencia americana_
 
   <br>
   
@@ -141,6 +141,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
