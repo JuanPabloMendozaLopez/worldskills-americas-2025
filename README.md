@@ -128,7 +128,6 @@ Evolución de la aplicación de escritorio mediante la integración de módulos 
 ### Sexto módulo – Desarrollo Móvil Avanzado, Integración de API y Gestión de Pedidos Personalizados
 
 Optimización de la aplicación móvil mediante la implementación de un sistema backend completo (Base de datos SQL y API RESTful) para la gestión de solicitudes especiales. El proyecto se enfoca en la creación de un catálogo de productos interactivo con capacidades de búsqueda y filtrado avanzado, y un módulo de personalización que permite la configuración dinámica de ingredientes, cálculo de precios en tiempo real y gestión del carrito de compras, asegurando la integración con los servicios de pedidos existentes.
-+3
 
 [Ver detalles de la prueba](./modulo-6/README.md)
 
@@ -142,6 +141,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
