@@ -72,6 +72,7 @@ worldskills-colombia-2025/
 ├── modulo-3/                   # Módulo 3 – Desarrollo e Integración de Aplicación de Escritorio y API RESTful
 ├── modulo-4/                   # Módulo 4 – Desarrollo de Aplicación Móvil Orientada al Cliente e Integración de Servicios
 ├── modulo-5/                   # Módulo 5 – Implementación de Lógica de Negocio Avanzada, Programas de Fidelización y Gestión de Inventarios
+├── modulo-6/                   # Módulo 6 – Desarrollo Móvil Avanzado, Integración de API y Gestión de Pedidos Personalizados
 └── README.md                   # Documentación principal del repositorio
 ```
 
@@ -141,6 +142,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
